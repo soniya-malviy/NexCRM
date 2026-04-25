@@ -110,6 +110,6 @@ uvicorn main:app --reload
 - Email: admin@crm.com
 - Password: password123
 
-## License
+## Contributor 
 
-MIT
+Soniya Malviya
