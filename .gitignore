@@ -1,0 +1,19 @@
+# Environment
+node_modules/
+.env
+*.log
+
+# Build
+dist/
+build/
+
+# Docker
+.dockerignore
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
